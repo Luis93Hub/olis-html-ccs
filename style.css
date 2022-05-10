@@ -1,0 +1,16 @@
+h2 {
+    font-family: 'Oleo Script Swash Caps', cursive;
+    color:blueviolet;
+    font-size: 45px;
+}
+
+.imagen-de-lubricantes {
+    width: 100px;
+    border-width: 5px;
+    border-color: blue;
+    border-style: outset none inset;
+}
+
+.bordes-redondeados {
+    border-radius: 20px;
+}
