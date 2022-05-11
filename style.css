@@ -1,16 +1,86 @@
-h2 {
+#titule {
     font-family: 'Oleo Script Swash Caps', cursive;
-    color:blueviolet;
+    color:blue;
     font-size: 45px;
 }
 
 .imagen-de-lubricantes {
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    background-color: rgb(30, 255, 0);
     width: 100px;
     border-width: 5px;
     border-color: blue;
     border-style: outset none inset;
+    margin: 20px 30px 50px 10px;
 }
 
 .bordes-redondeados {
-    border-radius: 20px;
+    padding: 20px 15px 5px 8px;
+    background-color: antiquewhite;
+    border-radius: 20%;
+}
+
+.contenedor-listas {
+    background-color: brown;
+}
+
+#imagen-lubri {
+    border-radius: 50%;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: aqua;
+}
+
+img[alt] {
+    border-radius: 60%;
+}
+
+[type="radio"] {
+    margin: 25px;
+}
+
+input[type="checkbox"] {
+    margin: 20px;
+}
+
+a[href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.cdnelnuevodiario.com%2Fcache%2Fe6%2F7f%2Fe67f9b4a60642cdd10eacad443012ceb.jpg&imgrefurl=https%3A%2F%2Fwww.elnuevodiario.com.ni%2Feconomia%2F392920-lubricantes-aceites-que-sirven%2F&tbnid=2Z0q2Ai811AtqM&vet=12ahUKEwir95SImMv3AhWE0VMKHTxhA4IQMygAegUIARDUAQ..i&docid=dHBLhM3jKdfawM&w=640&h=400&q=Imagenes%20de%20lubricantes&ved=2ahUKEwir95SImMv3AhWE0VMKHTxhA4IQMygAegUIARDUAQ"]{
+    color: green;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#contenedor-principal {
+    color: white;
+    padding: 5px;
+    font-size: 25px;
+    background-color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.rectangulo {
+    padding: 5px;
+    margin: 5px;
+}
+
+.px {
+    background-color: crimson;
+    width: 200px;
+}
+
+.vw {
+    background-color: darkmagenta;
+    width: 20vw;
+}
+
+.em {
+    background-color: green;
+    width: 15em;
+    font-size: 0.5em;
+}
+
+body {
+    background-color: palegoldenrod;
 }
