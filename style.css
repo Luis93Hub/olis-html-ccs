@@ -84,3 +84,11 @@ a[href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.cdnelnuevodiar
 body {
     background-color: palegoldenrod;
 }
+
+.texto-azul {
+    color: blue;
+}
+
+.texto-morado {
+    color: purple;
+}
