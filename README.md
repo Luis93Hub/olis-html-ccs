@@ -1,3 +1,5 @@
 # olis-html-css
 
-# My fist page html-css
+# My first page html-css
+
+# this page was elaborated for reason to offer service

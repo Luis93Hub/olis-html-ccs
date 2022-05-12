@@ -24,7 +24,7 @@
 }
 
 .contenedor-listas {
-    background-color: brown;
+    background-color: rgb(0, 255, 255);
 }
 
 #imagen-lubri {
@@ -85,10 +85,8 @@ body {
     background-color: palegoldenrod;
 }
 
-.texto-azul {
-    color: blue;
-}
-
 .texto-morado {
     color: purple;
 }
+
+/* Hexadecimal */
